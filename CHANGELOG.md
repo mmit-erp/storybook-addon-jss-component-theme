@@ -1,3 +1,10 @@
+# [2.3.0](https://github.com/mmit-erp/storybook-addon-jss-component-theme/compare/v2.2.0...v2.3.0) (2022-05-02)
+
+
+### Features
+
+* upgrade dependencies ([9a2e03f](https://github.com/mmit-erp/storybook-addon-jss-component-theme/commit/9a2e03fef9ead15057d636a55e805644d15efb92))
+
 # [2.2.0](https://github.com/mmit-erp/storybook-addon-jss-component-theme/compare/v2.1.2...v2.2.0) (2022-04-29)
 
 
